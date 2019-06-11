@@ -12,4 +12,4 @@ Hi, I'm Sparkle Williams. I'm in StratOps at DHS.
 - **Hobbies:**
   - Reading
   - Laying on the beach
-- **Favorite Website:** []()
+- **Favorite Website:** [cnn.com]()
